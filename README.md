@@ -1,4 +1,4 @@
-# Hassan Sajjad — Futuristic Portfolio
+# Hassan Sajjad —  Portfolio
 
 A static portfolio built with plain HTML, CSS and lightweight JavaScript.
 
